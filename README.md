@@ -9,8 +9,8 @@
 - [ ] Lobby screens
 - [ ] Cosmetics
 - [ ] Chat
- - [ ] AMQ Emotes
- - [ ] Custom emotes
+  - [ ] AMQ Emotes
+  - [ ] Custom emotes
 - [ ] Standard Gameplay
 - [ ] Video caching
 - [ ] Android client
