@@ -34,6 +34,8 @@ pnpm install
 pnpm tauri dev
 ```
 
+For commits styling refer to <a href="https://www.conventionalcommits.org/en/v1.0.0/">Conventional commits guidelines</a>.
+
 ### Translation
 
 As of now, please refer to `i18n` directory. Proper translation channel will be set up later.
